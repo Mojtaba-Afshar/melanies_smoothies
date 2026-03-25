@@ -1,9 +1,5 @@
-name: streamlit-env
-channels:
-  - conda-forge
-dependencies:
-  - python=3.9
-  - streamlit
-  - snowflake-snowpark-python
-  - pandas
-  - numpy
+python=3.10
+streamlit
+snowflake-snowpark-python
+pandas
+numpy
